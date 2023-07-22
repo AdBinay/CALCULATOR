@@ -1,0 +1,25 @@
+*{
+    background-color: antiquewhite;
+}
+
+.outerdiv{
+    margin: 100px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+.key{
+    color: red;
+    background-color: antiquewhite;
+    margin: 2px;
+    padding: 5px;
+    width: 60px;
+    height: 50px;
+    font-size: 30px;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 30%;
+}
+.key:hover{
+    background-color: aqua;
+}
